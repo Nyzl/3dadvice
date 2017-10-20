@@ -6,7 +6,7 @@ function getGraphDataSets() {
             .nameField('id')
             .autoColorBy('group')
             .forceEngine('ngraph')
-            .jsonUrl('.miserables.json');
+            .jsonUrl('miserables.json');
     };
     loadMiserables.description = "<em>Les Mis</em> data (<a href='https://bl.ocks.org/mbostock/4062045'>4062045</a>)";
 
