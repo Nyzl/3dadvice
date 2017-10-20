@@ -8,7 +8,7 @@ function getGraphDataSets() {
             .forceEngine('ngraph')
             .jsonUrl('.miserables.json');
     };
-    loadMiserables.description = "Issue data";
+    loadMiserables.description = "<em>Les Miserables</em> data (<a href='https://bl.ocks.org/mbostock/4062045'>4062045</a>)";
 
 
     //
