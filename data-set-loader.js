@@ -8,7 +8,7 @@ function getGraphDataSets() {
             .forceEngine('ngraph')
             .jsonUrl('.miserables.json');
     };
-    loadMiserables.description = "<em>Issue data</em>";
+    loadMiserables.description = "Issue data";
 
 
     //
