@@ -10,7 +10,6 @@ function getGraphDataSets() {
     };
     loadMiserables.description = "<em>Les Miserables</em> data (<a href='https://bl.ocks.org/mbostock/4062045'>4062045</a>)";
 
-
     //
 
     const tunnel = function(Graph) {
